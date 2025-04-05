@@ -8,5 +8,5 @@
 ![RickRoll] (https://img.youtube.com/vi/xvFZjo5PgG0/0.jpg)
 [![RickRoll](https://img.youtube.com/vi/xvFZjo5PgG0/0.jpg)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
-![RECUPERER LE CODE SOURCE D'UNE PAGE HTML EN PYTHON](https://img.youtube.com/vi/watch?740g2O3jsG4/0.jpg)
-[![RECUPERER LE CODE SOURCE D'UNE PAGE HTML EN PYTHON](https://img.youtube.com/vi/watch?740g2O3jsG4/0.jpg)](https://www.youtube.com/watch?v=740g2O3jsG4)
+![RECUPERER LE CODE SOURCE D'UNE PAGE HTML EN PYTHON](https://img.youtube.com/vi/740g2O3jsG4/0.jpg)
+[![RECUPERER LE CODE SOURCE D'UNE PAGE HTML EN PYTHON](https://img.youtube.com/vi/740g2O3jsG4/0.jpg)](https://www.youtube.com/watch?v=740g2O3jsG4)
